@@ -1,2 +1,0 @@
-b.txt file.
-file b is test file.
