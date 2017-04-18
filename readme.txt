@@ -4,4 +4,7 @@ git has a mutable index called stage.
 git tracks changed again.
 test git branch on future.
 test git branch on master.
+
 here is master branch.
+here is future branch.
+
